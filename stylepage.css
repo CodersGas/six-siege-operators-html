@@ -1,0 +1,67 @@
+
+*{
+    box-sizing: border-box;
+}
+
+table{
+    width: 80%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading{
+    font-family: helvetica;
+    font-size: 25px;
+    font-weight: 7px;
+    text-align: center;
+    color: yellow;
+    opacity: 0.75;
+}
+
+#introduction{
+    font-family: cursive;
+    font-size: 15px;
+    font-weight: 3px;
+    text-align: center;
+    color: #F0FFFF;
+    opacity: 0.80;
+}
+
+h2{
+    font-family: helvetica;
+    font-size: 25px;
+    font-weight: 7px;
+    text-align: center;
+    color: yellow;
+    opacity: 0.75;
+}
+
+#operators-list-table td{
+    text-align: center;
+    padding: 5px 2px;
+    font-family: cursive;
+}
+
+
+#operators-list-table a{
+    color: chartreuse;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#operators-list-table th{
+    color: gold;
+}
+
+footer{
+    text-align: center;
+    color: aliceblue;
+    font-family: helvetica;
+}
+
+footer img{
+    width: 35px;
+    height: 35px;
+}
